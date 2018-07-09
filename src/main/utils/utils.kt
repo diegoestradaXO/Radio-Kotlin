@@ -1,5 +1,4 @@
 package main.utils
-
 class Radio (
         var modulacion: String = "AM",
         var volumen: Int = 0,
